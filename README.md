@@ -33,7 +33,17 @@ https://ai-data-analysis-agent-beta.vercel.app/
 
 ## Screenshots
 
-(Add screenshots here)
+### Landing Page
+
+![Landing Page](screenshots/landing-page.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Charts & Analysis
+
+![Charts](screenshots/charts.png)
 
 ## Installation
 
