@@ -1,18 +1,25 @@
 # AI Data Analysis Agent
 
-AI-powered data analysis dashboard for CSV and Excel files with automated exploratory data analysis (EDA), visualizations, correlation analysis, and insights.
+🚀 Live Demo: https://ai-data-analysis-agent-beta.vercel.app/
+
+An AI-powered data analysis dashboard that transforms CSV and Excel datasets into actionable insights, statistics, correlations, and interactive visualizations.
 
 ## Features
 
 * CSV & Excel File Upload
-* Automated Data Analysis
+* Automated Exploratory Data Analysis (EDA)
 * Descriptive Statistics
 * Correlation Analysis
-* Histogram Visualizations
-* Scatter Plots
+* Interactive Histograms
+* Scatter Plot Visualizations
 * Category Breakdown Charts
 * Data Quality Checks
-* Interactive Dashboard
+* Modern Responsive Dashboard
+* Dark Theme UI
+
+## Live Demo
+
+https://ai-data-analysis-agent-beta.vercel.app/
 
 ## Tech Stack
 
@@ -21,6 +28,12 @@ AI-powered data analysis dashboard for CSV and Excel files with automated explor
 * Recharts
 * PapaParse
 * XLSX
+* GitHub
+* Vercel
+
+## Screenshots
+
+(Add screenshots here)
 
 ## Installation
 
@@ -29,12 +42,25 @@ npm install
 npm run dev
 ```
 
-## Build for Production
+## Build
 
 ```bash
 npm run build
 ```
 
-## Project Goal
+## Project Objective
 
-Transform raw spreadsheets into actionable insights, statistics, correlations, and visualizations in seconds.
+The goal of this project is to automate spreadsheet analysis and provide users with quick insights through interactive visualizations and statistical summaries without requiring manual analysis.
+
+## Future Improvements
+
+* AI-generated dataset insights
+* PDF report export
+* Correlation heatmaps
+* Advanced filtering
+* Natural language dataset queries
+
+## Author
+
+Vivek Surati
+
